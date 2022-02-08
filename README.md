@@ -1,9 +1,9 @@
 Only tested with yarn. Install yarn with `npm install --global yarn`
 
 ```bash
-git clone https://github.com/waltoncon/cws.git
+git clone https://github.com/cw-saff/cws.git
 # or
-gh repo clone waltoncon/cws
+gh repo clone cw-saff/cws
 
 cd cws
 
