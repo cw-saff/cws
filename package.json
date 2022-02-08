@@ -1,5 +1,5 @@
 {
-  "name": "course-snap",
+  "name": "cws",
   "version": "0.0.0",
   "main": "bin/index.mjs",
   "type": "module",
